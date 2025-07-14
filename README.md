@@ -1,2 +1,2 @@
-# Android-Quiz-Management
-android quiz app
+# Android Quiz Management
+ Built By Vidya Pruthvi Gurubayi
